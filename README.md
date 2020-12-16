@@ -16,5 +16,5 @@ smallsh will implement a subset of features of well-known shells, such as bash. 
 Enter the following line into the UNIX terminal 
 to compile the small shell program: 
 
->> gcc --std=GNU99 -o smallsh smallsh.c
+> gcc --std=GNU99 -o smallsh smallsh.c
 >> ./smallsh
